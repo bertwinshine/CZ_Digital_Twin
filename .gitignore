@@ -1,0 +1,9 @@
+# trained model contains the full training fields; never commit it
+*.pkl
+case_lists/
+synthetic/
+/holdout_report.csv
+__pycache__/
+*.pyc
+.venv/
+.streamlit/

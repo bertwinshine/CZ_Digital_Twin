@@ -1,0 +1,45 @@
+CZ Melt Digital Twin — Proprietary Licence (All Rights Reserved)
+
+Copyright (c) 2026 Bertwin Kurisinkal Shine. All rights reserved.
+
+1. Ownership
+   This repository and everything in it — source code, documentation, demo
+   video and preview, figures, results, sample data files and README text
+   (together, the "Work") — is the property of the copyright holder named
+   above. It is published for viewing only. It is not open source.
+
+2. What you may do
+   (a) View the Work on GitHub, and fork it within GitHub, to the extent
+       required by the GitHub Terms of Service.
+   (b) If you are evaluating a possible collaboration with the copyright
+       holder, download and run the Work privately for that evaluation only.
+       This permission ends when the evaluation ends; you must then delete
+       all copies.
+
+3. What you may not do without prior written permission
+   (a) Use the Work, or any part of it, for any commercial, research,
+       teaching or internal business purpose other than 2(b).
+   (b) Copy, modify, adapt, translate or create derivative works.
+   (c) Publish, distribute, sublicense, sell, host or otherwise make the Work
+       available to others, including outside GitHub.
+   (d) Present the Work, or anything derived from it, as your own — including
+       in demonstrations, pitches, proposals, publications, products,
+       portfolios or presentations.
+   (e) Remove or alter this licence or any copyright notice.
+   (f) Use the Work to train, fine-tune or evaluate machine-learning models.
+
+4. Permission requests
+   Requests for any use not listed in section 2 must be made to the copyright
+   holder through the contact route given in README.md. Permission is only
+   valid if given in writing.
+
+5. No warranty, no liability
+   The Work is a research demonstrator. It is provided "as is", without
+   warranty of any kind, express or implied. It has not been validated
+   against a real furnace and must not be used to control or make decisions
+   about real equipment. The copyright holder is not liable for any claim,
+   damage or loss arising from the Work or its use.
+
+6. Termination
+   Any use that breaks these terms ends all permissions under section 2
+   immediately.

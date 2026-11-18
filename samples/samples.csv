@@ -1,0 +1,5 @@
+case_id,role,group,crystal_rpm,crucible_rpm,t_hot,filename
+sobol_000,DOE training case,sobol,10.89647159,-2.670688249,1774.352702,sobol_000.csv
+sobol_100,DOE training case,sobol,4.289591864,-5.445245452,1733.281168,sobol_100.csv
+sweep_anchor,hold-out case,sweep,8.0,-3.0,1745.0,sweep_anchor.csv
+ood_crystal_24,hold-out case,ood,24.0,-5.5,1757.5,ood_crystal_24.csv

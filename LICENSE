@@ -1,4 +1,4 @@
-CZ Melt Digital Twin — Proprietary Licence (All Rights Reserved)
+CZ Digital Twin — Proprietary Licence (All Rights Reserved)
 
 Copyright (c) 2026 Bertwin Kurisinkal Shine. All rights reserved.
 
@@ -6,19 +6,18 @@ Copyright (c) 2026 Bertwin Kurisinkal Shine. All rights reserved.
    This repository and everything in it — source code, documentation, demo
    video and preview, figures, results, sample data files and README text
    (together, the "Work") — is the property of the copyright holder named
-   above. It is published for viewing only. It is not open source.
+   above. It is published for viewing and evaluation only. It is not open
+   source.
 
 2. What you may do
    (a) View the Work on GitHub, and fork it within GitHub, to the extent
        required by the GitHub Terms of Service.
-   (b) If you are evaluating a possible collaboration with the copyright
-       holder, download and run the Work privately for that evaluation only.
-       This permission ends when the evaluation ends; you must then delete
-       all copies.
+   (b) Download and run the Work privately to evaluate it. This permission
+       ends when the evaluation ends; you must then delete all copies.
 
 3. What you may not do without prior written permission
    (a) Use the Work, or any part of it, for any commercial, research,
-       teaching or internal business purpose other than 2(b).
+       teaching or internal business purpose other than evaluation under 2(b).
    (b) Copy, modify, adapt, translate or create derivative works.
    (c) Publish, distribute, sublicense, sell, host or otherwise make the Work
        available to others, including outside GitHub.
@@ -30,8 +29,8 @@ Copyright (c) 2026 Bertwin Kurisinkal Shine. All rights reserved.
 
 4. Permission requests
    Requests for any use not listed in section 2 must be made to the copyright
-   holder through the contact route given in README.md. Permission is only
-   valid if given in writing.
+   holder through the contact links in the Author section of README.md.
+   Permission is only valid if given in writing.
 
 5. No warranty, no liability
    The Work is a research demonstrator. It is provided "as is", without

@@ -97,3 +97,5 @@ Bertwin Kurisinkal Shine, CFD simulation and validation
 
 Shared for viewing and evaluation. Any other use, copying or redistribution requires written permission from the author. Full terms in [LICENSE](LICENSE).
 
+The code and the demo video were produced with AI assistance (Claude) and checked against the hold-out cases above.
+
